@@ -12,3 +12,4 @@ C:\Users\Hiennd-yopaz\Documents\yopaz\Learn\oop\obj\Debug\net8.0\refint\oop.dll
 C:\Users\Hiennd-yopaz\Documents\yopaz\Learn\oop\obj\Debug\net8.0\oop.pdb
 C:\Users\Hiennd-yopaz\Documents\yopaz\Learn\oop\obj\Debug\net8.0\oop.genruntimeconfig.cache
 C:\Users\Hiennd-yopaz\Documents\yopaz\Learn\oop\obj\Debug\net8.0\ref\oop.dll
+C:\Users\Hiennd-yopaz\Documents\yopaz\Learn\oop\obj\Debug\net8.0\oop.sourcelink.json
